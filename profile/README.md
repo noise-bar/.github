@@ -1,4 +1,4 @@
-![Noise Bar Logo](https://github.com/noise-bar/.github/blob/c75c7c58ac26dbe917fcb3fa3f5710b060bca941/assets/noisebar-banner-3x1.svg)
+![Noise Bar Logo](https://github.com/noise-bar/.github/blob/6044ecc6c990cc596bc36b6a09d569e09867e4f3/assets/noisebar-banner-3x1.svg)
 
 # Noise Bar
 
